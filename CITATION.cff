@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it."
+authors:
+  - family-names: Gentyala
+    given-names: Sunil
+    orcid: "https://orcid.org/0009-0005-2642-3479"
+    affiliation: "HCLTech (HCL America Inc.)"
+title: "CIPHER: Hybrid Post-Quantum Governance for MCP"
+version: 1.0.0
+date-released: 2026-04-19
+url: "https://github.com/sunilgentyala/cipher-mcp-pqc"
+license: MIT
