@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26881240/README.md)
+
 # cipher-mcp-pqc# CIPHER-MCP-PQC
 
 **Composite Identity, Protocol Handshake, and Evidence Repository**
