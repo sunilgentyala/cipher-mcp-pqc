@@ -1,12 +1,44 @@
 cff-version: 1.2.0
-message: "If you use this framework, please cite it."
+message: "If you use this framework or artifacts, please cite as below."
+type: software
+title: "CIPHER-MCP-PQC: Hybrid Post-Quantum Governance for Model Context Protocol"
+version: 1.0.0
+date-released: 2026-04-19
+doi: 10.5281/zenodo.XXXXXXX
+url: "https://github.com/sunilgentyala/cipher-mcp-pqc"
+repository-code: "https://github.com/sunilgentyala/cipher-mcp-pqc"
+license: MIT
 authors:
   - family-names: Gentyala
     given-names: Sunil
     orcid: "https://orcid.org/0009-0005-2642-3479"
-    affiliation: "HCLTech (HCL America Inc.)"
-title: "CIPHER: Hybrid Post-Quantum Governance for MCP"
-version: 1.0.0
-date-released: 2026-04-19
-url: "https://github.com/sunilgentyala/cipher-mcp-pqc"
-license: MIT
+    affiliation: "HCLTech (HCL America Inc.), Prosper, Texas, USA"
+    email: gentyalas@hcltech.com
+keywords:
+  - post-quantum cryptography
+  - model context protocol
+  - CIPHER framework
+  - hybrid key exchange
+  - ML-KEM
+  - ML-DSA
+  - SPIFFE/SPIRE
+  - HNDL
+  - agentic AI security
+abstract: >
+  Implementation artifacts for the CIPHER (Composite Identity, Protocol Handshake,
+  and Evidence Repository) governance framework for incrementally hardening networked
+  Model Context Protocol deployments against harvest-now-decrypt-later quantum threats.
+  Four artifact sets: A1 HHF enforcer, A2 CCRS evaluator, A3 composite SVID generator,
+  A4 HRSP middleware. Accompanies the paper submitted to ACM QSec 2026.
+preferred-citation:
+  type: conference-paper
+  title: "Composite Trust for Cognitive Workloads: Hybrid Post-Quantum Identity and Handshake Hardening for AI Agent Protocols"
+  authors:
+    - family-names: Gentyala
+      given-names: Sunil
+      orcid: "https://orcid.org/0009-0005-2642-3479"
+  year: 2026
+  collection-title: "Proceedings of the ACM Workshop on Post-Quantum Cryptography Security (QSec '26)"
+  publisher:
+    name: ACM
+  doi: 10.1145/XXXXXXX.XXXXXXX
