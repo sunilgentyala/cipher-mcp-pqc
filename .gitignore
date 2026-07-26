@@ -1,0 +1,11 @@
+# Manuscript files must never be committed to this public repo
+paper/
+*.tex
+*.cls
+*.sty
+*.docx
+*.pdf
+*.bib
+
+__pycache__/
+*.pyc
