@@ -1,14 +1,13 @@
 
-# cipher-mcp-pqc# CIPHER-MCP-PQC
+# CIPHER-MCP-PQC
 
 **Composite Identity, Protocol Handshake, and Evidence Repository**
 Hybrid post-quantum governance framework for Model Context Protocol infrastructure.
 
-Accompanies: *Composite Trust for Cognitive Workloads: Hybrid Post-Quantum Identity and Handshake Hardening for AI Agent Protocols* — ACM QSec 2026 / Elsevier FGCS 2026.
+Accompanies the manuscript *Composite Trust for Cognitive Workloads: Hybrid Post-Quantum Identity and Handshake Hardening for AI Agent Protocols* (submitted for publication; not yet peer-reviewed).
 
 **Author:** Sunil Gentyala, HCLTech | IEEE Senior Member 101760715 | ORCID 0009-0005-2642-3479
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 ---
 
@@ -29,9 +28,6 @@ cipher-mcp-pqc/
 ├── benchmarks/
 │   ├── harness/                  Go MCP stub server and bench client
 │   └── results_raw.csv           50,000-run handshake benchmark dataset
-├── paper/
-│   ├── ACM_CIPHER_v5_ACMTemplate.docx
-│   └── FGCS_CIPHER_FINAL_v3.docx
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
@@ -137,19 +133,16 @@ python artifacts/A4-HRSP-middleware/hrsp_middleware.py \
   title     = {CIPHER-MCP-PQC: Hybrid Post-Quantum Governance for MCP},
   year      = {2026},
   version   = {v1.0.0},
-  doi       = {10.5281/zenodo.XXXXXXX},
   url       = {https://github.com/sunilgentyala/cipher-mcp-pqc},
   orcid     = {0009-0005-2642-3479}
 }
 
-@inproceedings{gentyala2026composite,
+@unpublished{gentyala2026composite,
   author    = {Gentyala, Sunil},
   title     = {Composite Trust for Cognitive Workloads: Hybrid Post-Quantum Identity
                and Handshake Hardening for {AI} Agent Protocols},
-  booktitle = {Proceedings of the ACM Workshop on Post-Quantum Cryptography Security (QSec '26)},
   year      = {2026},
-  publisher = {ACM},
-  doi       = {10.1145/XXXXXXX.XXXXXXX}
+  note      = {Manuscript submitted for publication}
 }
 ```
 

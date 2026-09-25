@@ -4,7 +4,6 @@ type: software
 title: "CIPHER-MCP-PQC: Hybrid Post-Quantum Governance for Model Context Protocol"
 version: 1.0.0
 date-released: 2026-04-19
-doi: 10.5281/zenodo.XXXXXXX
 url: "https://github.com/sunilgentyala/cipher-mcp-pqc"
 repository-code: "https://github.com/sunilgentyala/cipher-mcp-pqc"
 license: MIT
@@ -31,14 +30,12 @@ abstract: >
   Four artifact sets: A1 HHF enforcer, A2 CCRS evaluator, A3 composite SVID generator,
   A4 HRSP middleware. Accompanies the paper submitted to ACM QSec 2026.
 preferred-citation:
-  type: conference-paper
-  title: "Composite Trust for Cognitive Workloads: Hybrid Post-Quantum Identity and Handshake Hardening for AI Agent Protocols"
+  type: unpublished
+  title: 'Composite Trust for Cognitive Workloads: Hybrid Post-Quantum Identity and Handshake
+    Hardening for AI Agent Protocols'
   authors:
-    - family-names: Gentyala
-      given-names: Sunil
-      orcid: "https://orcid.org/0009-0005-2642-3479"
+  - family-names: Gentyala
+    given-names: Sunil
+    orcid: https://orcid.org/0009-0005-2642-3479
   year: 2026
-  collection-title: "Proceedings of the ACM Workshop on Post-Quantum Cryptography Security (QSec '26)"
-  publisher:
-    name: ACM
-  doi: 10.1145/XXXXXXX.XXXXXXX
+  notes: Manuscript submitted for publication; not yet peer-reviewed.
